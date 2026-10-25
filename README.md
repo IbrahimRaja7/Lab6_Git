@@ -1,4 +1,4 @@
-*Storage Estimator - Main Version*
+Storage Estimator - Main Version
 
 
 
@@ -18,7 +18,7 @@ How to Run:
 
 Open a terminal in the project folder and run:
 
-**py storage\_estimator.py**
+py storage\_estimator.py
 
 
 
