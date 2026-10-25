@@ -9,4 +9,5 @@ print("Storage in MB: ", storage_mb)
 print("Storage in KB: ", storage_kb)
 print("Storage in bytes: ", storage_bytes)
 print("Storage in TB: ", storage_tb)
+print("Storage in GB: ", storage_gb)
 # updated file
